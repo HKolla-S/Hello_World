@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc89bc6-24c5-4804-8458-fccf2ee960c9" name="Default Changelist" comment="" />
+    <list default="true" id="2cc89bc6-24c5-4804-8458-fccf2ee960c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson3_1/Hello_World.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_1/Hello_World.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
